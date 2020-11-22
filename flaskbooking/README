@@ -1,0 +1,5 @@
+1. Import the project
+2. Make sure you are running python 3.0 or higher
+3. Create a new virtual environment
+4. pip install -r requirements.txt
+5. python run.py
